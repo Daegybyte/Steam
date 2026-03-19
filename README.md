@@ -14,7 +14,7 @@ steam://open/console
 
 ---
 
-## Version Control
+## Game Version Control
 
 1. Go to [steamdb.info](https://steamdb.info) and find the game
 2. Navigate to **Depots → Manifests**
@@ -48,11 +48,19 @@ Right-click game → **Properties → Launch Options**
 ### Skyrim (SKSE)
 
 ```
-path\to\skse64_loader.exe
+"C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition\skse64_loader.exe" -- %command%
 ```
 
 ### Oblivion Remastered (SKSE)
 
 ```
-path\to\OblivionRemastered.exe
+"C:\Program Files (x86)\Steam\steamapps\common\Oblivion Remastered\OblivionRemastered\Binaries\Win64\obse64_loader.exe" -- %command%
+```
+
+### Morrowind (OpenMW)
+
+**BE SURE TO UPDATE PATH TO REFLECT VERSION NUMBER**
+
+```
+"C:\Program Files\OpenMW 0.50.0\openmw.exe" %command%
 ```
