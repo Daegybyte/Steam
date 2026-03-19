@@ -20,8 +20,8 @@ steam://open/console
 2. Navigate to **Depots → Manifests**
 3. Under **Previously Seen Manifests**, click `Steam Console`
 4. Paste the copied command into the Steam console:
-5. Wait for the download to complete, then copy the files from the depot folder to your game
-   directory
+5. Wait for the download to complete, then copy the new files to your game directory **NOTE: Steam
+   Console will tell you where the files are downloaded**
 
 ```
 download_depot $APP_ID $DEPOT_ID $MANIFEST_ID
