@@ -25,7 +25,7 @@ steam://open/console
 download_depot $APP_ID $DEPOT_ID $MANIFEST_ID
 ```
 
-### Skyrim (SKSE)
+### Skyrim Special Edition
 
 ```
 download_depot 2623190 2623191 3680196445693511195
@@ -51,7 +51,7 @@ Right-click game → **Properties → Launch Options**
 path\to\skse64_loader.exe
 ```
 
-### Oblivion Remastered V1.1
+### Oblivion Remastered (SKSE)
 
 ```
 path\to\OblivionRemastered.exe
