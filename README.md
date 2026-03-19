@@ -23,14 +23,10 @@ steam://open/console
 5. Wait for the download to complete, then copy the new files to your game directory **NOTE: Steam
    Console will tell you where the files are downloaded**
 
+`Command format:`
+
 ```
 download_depot $APP_ID $DEPOT_ID $MANIFEST_ID
-```
-
-### Skyrim Special Edition
-
-```
-download_depot 2623190 2623191 3680196445693511195
 ```
 
 ### Oblivion Remastered V1.1
